@@ -5,7 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
-    "typescript": "^4.8.0-dev.20220517"
+    "form-data-encoder": "^2.0.1",
+    "typescript": "^4.7.2"
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.6",
